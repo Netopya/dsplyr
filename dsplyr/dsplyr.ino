@@ -27,8 +27,8 @@ const int chipSelect = 53;
 
 /*
   dsplyr, A simple program to display images
-  saved in a text format onto Adafruit
-  RGB LED matrices
+  saved in a text format from a SD card 
+  onto an Adafruit RGB LED matrices
 */
 
 void setup() {
